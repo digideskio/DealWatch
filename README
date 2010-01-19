@@ -1,0 +1,7 @@
+DealWatch
+Parses and notifies users (via growl notifications) whenever new deals are found on the Red Flag Deals forums.
+Requires Growl for Windows (http://www.growlforwindows.com/)
+
+To build:
+add htmllexer and htmlparser to your build path (http://htmlparser.sourceforge.net/)
+add libgrowl to your build path (http://sourceforge.net/projects/libgrowl/)
